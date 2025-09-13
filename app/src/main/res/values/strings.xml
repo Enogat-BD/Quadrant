@@ -1,0 +1,11 @@
+<resources>
+    <string name="nom_application">Quadrant</string>
+    <string name="titre_1">Text Composable</string>
+    <string name="description_1">Displays text and allows customization of its appearance, including font size, weight, and color.</string>
+    <string name="titre_2">Image Composable</string>
+    <string name="description_2">Shows images from various sources with options for scaling and content description.</string>
+    <string name="titre_3">Row Composable</string>
+    <string name="description_3">Arranges its children horizontally, useful for creating horizontal layouts.</string>
+    <string name="titre_4">Column Composable</string>
+    <string name="description_4">Arranges its children vertically, the most common layout in Compose.</string>
+</resources>
